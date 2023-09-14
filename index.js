@@ -1,18 +1,18 @@
 // let quotes = [
 //   {
-//     quote: "alunas citas A",
+//     quote: "algunas citas A",
 //     author: "author A",
 //   },
 //   {
-//     quote: "alunas citas B",
+//     quote: "algunas citas B",
 //     author: "author B",
 //   },
 //   {
-//     quote: "alunas citas C",
+//     quote: "algunas citas C",
 //     author: "author C",
 //   },
 //   {
-//     quote: "alunas citas D",
+//     quote: "algunas citas D",
 //     author: "author D",
 //   },
 // ];
